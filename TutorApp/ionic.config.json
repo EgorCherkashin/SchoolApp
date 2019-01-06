@@ -1,0 +1,8 @@
+{
+  "name": "TutorApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "c34abb68"
+}
